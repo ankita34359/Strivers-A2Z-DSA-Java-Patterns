@@ -4,6 +4,7 @@
 This repository contains **Java pattern printing problems** covered in the **Striver's A2Z DSA Course** available at [Take U Forward](https://takeuforward.org/). It is designed to help beginners master loops, conditionals, and logic building through structured pattern problems.
 
 Each pattern includes:
+
 - **Pattern Description & Sample Output**
 - **Code Implementation** (in Java)
 - **Explanation of Loops Used**
@@ -51,6 +52,7 @@ Strivers-A2Z-Java-Patterns/
 ---
 
 ## 💡 Why This Repository?
+
 - Provides **structured learning** for pattern problems.
 - Helps in **mastering loops and logic building**.
 - Saves time with **well-documented solutions**.
@@ -58,26 +60,9 @@ Strivers-A2Z-Java-Patterns/
 
 ---
 
-## 📢 Contribution Guidelines
-Want to contribute? Follow these steps:
-1. Fork the repository.
-2. Add optimized/better solutions while following the folder structure.
-3. Ensure code is well-commented and follows clean coding practices.
-4. Create a pull request with a meaningful description.
-
----
-
-## 🔗 Useful References
-- **Striver’s A2Z DSA Course**: [Take U Forward](https://takeuforward.org/)
-- **Java Documentation**: [Oracle Java Docs](https://docs.oracle.com/en/java/)
-- **Leetcode / CodeStudio / GFG for pattern problems**
-
----
-
 ## ⭐ Support & Connect
 If you find this repository helpful, consider starring 🌟 it on GitHub!
 
 📌 Follow me on GitHub: [Ankita34359](https://github.com/ankita34359)  
-📧 Feel free to reach out via issues or discussions!
 
 Happy Coding! 🚀
